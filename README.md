@@ -16,13 +16,10 @@ _Follow the below instruction to get you started with the car finder repository.
    ```
 1. Install NPM packages
    ```sh
+   npm init -y
    npm install
    ```
-1. Install jest package
-   ```sh
-   npm install --save-dev jest
+1. Run the tests
    ```
-1. Start the server
-   ```
-   npm run start
+   npm test
    ```
